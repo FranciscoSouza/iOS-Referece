@@ -1,5 +1,5 @@
 platform :ios, '8.4'
-# Uncomment this line if you're using Swift
+# Uncomment this line if you're using Swift. test
 # use_frameworks!
 
 target 'ReferenceApplicationDev' do
